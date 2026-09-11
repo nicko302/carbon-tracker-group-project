@@ -8,7 +8,7 @@ This web app gives households the ability to record their household activities t
 This project was written using **HTML** and **PHP** (sqlite3), with support from **javascript** for interactivity and most notably for usage of **Chart.js** (_https://www.chartjs.org/_).
 
 ## Showcase
-<img width="460" height="300" alt="Carbon tracker" src="https://github.com/user-attachments/assets/a20417db-e6f9-49ee-b0af-4b6582e02f29" />
+<img width="600" height="400" alt="Carbon tracker" src="https://github.com/user-attachments/assets/a20417db-e6f9-49ee-b0af-4b6582e02f29" />
 
 
 ----
